@@ -1,0 +1,1 @@
+const carsObject= require("./cars.json")
